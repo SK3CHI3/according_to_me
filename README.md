@@ -17,6 +17,8 @@
 3. Install the dependencies: `npm install`
 4. Create a `.env` file and add necessary environment variables.
 5. Start the application: `npm start`
+
+   
 That's it.
 ....!!!
 The original plan was to have a very complete Website but other important stuff coming up and this was postoned to the futue me to complete!
