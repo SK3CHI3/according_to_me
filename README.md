@@ -1,4 +1,4 @@
-# according_to_me
+# According_to_me
 ## Installation
 
 ### Prerequisites
